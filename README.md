@@ -1,7 +1,7 @@
 Page Object Model
 ==================================
-Go to https://thinking-tester-contact-list.herokuapp.com/ and signup
-create username as email and password and put to Global.properties file
+1. Go to https://thinking-tester-contact-list.herokuapp.com/ and signup
+2. create username as email and password and put to Global.properties file
 
 **Folder Structure**
 
